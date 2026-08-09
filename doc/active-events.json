@@ -1,0 +1,629 @@
+{
+    "status": "success",
+    "count": 1,
+    "data": [
+        {
+            "id": 1,
+            "name": "The Annual Marketing Conference",
+            "slug": "annual-marketing-conference-vudev",
+            "description": null,
+            "start_date": "2026-12-10",
+            "end_date": "2026-12-12",
+            "registration_deadline": null,
+            "is_active": true,
+            "countdown_enabled": false,
+            "calendar_enabled": false,
+            "show_gallery": false,
+            "show_sponsors": false,
+            "show_tickets": false,
+            "meta_title": "Sự kiện SMB+ — The Annual Marketing Conference",
+            "meta_description": "Tham gia sự kiện SMB+ để cập nhật xu hướng chuyển đổi số mới nhất nha.",
+            "favicon_url": null,
+            "og_image": null,
+            "zalo_url": null,
+            "fanpage_url": null,
+            "about_description": null,
+            "about_where": null,
+            "about_when": null,
+            "venue": "Downtown Conference Center, New York, 157 William St, New York, NY 10038",
+            "pc_bg_image_url": "/storage/95/1785833629932_3209034539388497929_g3554726886689911253_d7540aaa426aea5a3933355b88215839.jpg",
+            "mobile_bg_image_url": "/storage/88/1785833629932_3209034539388497929_g3554726886689911253_d7540aaa426aea5a3933355b88215839.jpg",
+            "hero_image": "/storage/95/1785833629932_3209034539388497929_g3554726886689911253_d7540aaa426aea5a3933355b88215839.jpg",
+            "mobile_hero_image": "/storage/88/1785833629932_3209034539388497929_g3554726886689911253_d7540aaa426aea5a3933355b88215839.jpg",
+            "event_url": "http://localhost:8099/event/annual-marketing-conference-vudev",
+            "settings": {
+                "company_youtube_link": "https://www.youtube.com/watch?v=jDDaplaOz7Q",
+                "contact_email": "info@smbplus.vn",
+                "footer_description": "SMB+ cung cấp các giải pháp phần mềm quản lý toàn diện cho doanh nghiệp vừa và nhỏ.",
+                "footer_twitter": "#",
+                "footer_facebook": "#",
+                "footer_instagram": "#",
+                "footer_googleplus": "#",
+                "footer_linkedin": "#",
+                "company_title": "SMB+<br><span>Solution for Business Plus</span>",
+                "company_subtitle": "Tư vấn & Phát triển phần mềm - Đối tác chuyển đổi số tin cậy",
+                "company_about": "SMB+ là doanh nghiệp hoạt động trong lĩnh vực tư vấn và phát triển phần mềm, tập trung cung cấp giải pháp chuyển đổi số cho doanh nghiệp thông qua các dịch vụ phát triển phần mềm theo yêu cầu, tư vấn công nghệ, kiểm thử phần mềm và triển khai các nền tảng SaaS.",
+                "contact_phone": "028 7301 3388",
+                "company_slogan": "Đối tác chuyển đổi số",
+                "company_letter": "<p>Kính gửi Quý đối tác và khách hàng,</p><p>Trong bối cảnh chuyển đổi số đang diễn ra mạnh mẽ, SMB+ cam kết đồng hành cùng doanh nghiệp trong hành trình tối ưu vận hành và tăng trưởng bền vững. Hồ sơ năng lực này là bức tranh toàn cảnh về đội ngũ, dịch vụ, giải pháp và các dự án tiêu biểu của chúng tôi.</p><p>Chúng tôi tin rằng mỗi doanh nghiệp có một bài toán riêng, và giải pháp đúng đắn luôn bắt đầu từ sự thấu hiểu. SMB+ sẵn sàng lắng nghe và cùng Quý doanh nghiệp kiến tạo giá trị thực tiễn.</p><p>Trân trọng,<br>Ban Giám đốc SMB+</p>",
+                "company_vision": "Trở thành đối tác công nghệ tin cậy đồng hành cùng doanh nghiệp trong quá trình chuyển đổi số và phát triển bền vững.",
+                "company_mission": "Mang đến các giải pháp phần mềm phù hợp với từng doanh nghiệp, tối ưu chi phí đầu tư và tạo ra giá trị thực tiễn.",
+                "company_thanks": "Cảm ơn Quý khách hàng và đối tác đã tin tưởng đồng hành cùng SMB+. Chúng tôi luôn sẵn sàng hợp tác để kiến tạo giá trị bền vững cho doanh nghiệp của bạn.",
+                "contact_website": "https://smbplus.vn",
+                "sec_letter_title": "Thư ngỏ",
+                "sec_letter_subtitle": "Lời ngỏ từ Ban Giám đốc",
+                "sec_about_title": "Giới thiệu SMB+",
+                "sec_about_subtitle": "Đối tác công nghệ tin cậy của doanh nghiệp",
+                "sec_values_title": "Giá trị cốt lõi",
+                "sec_values_subtitle": "",
+                "sec_why_us_title": "Vì sao chọn SMB+",
+                "sec_why_us_subtitle": "Lợi thế đồng hành cùng chúng tôi",
+                "sec_services_title": "Dịch vụ",
+                "sec_services_subtitle": "Giải pháp phần mềm toàn diện",
+                "sec_solutions_title": "Giải pháp",
+                "sec_solutions_subtitle": "Nền tảng triển khai cho doanh nghiệp",
+                "sec_process_title": "Quy trình triển khai",
+                "sec_process_subtitle": "8 bước chuyên nghiệp, minh bạch",
+                "sec_roles_title": "Năng lực đội ngũ",
+                "sec_roles_subtitle": "Chuyên gia giàu kinh nghiệm trong mọi vai trò",
+                "sec_models_title": "Mô hình làm việc",
+                "sec_models_subtitle": "Linh hoạt theo nhu cầu doanh nghiệp",
+                "sec_projects_title": "Dự án tiêu biểu",
+                "sec_projects_subtitle": "Các dự án chúng tôi đã thực hiện cho khách hàng",
+                "sec_partners_title": "Đối tác",
+                "sec_partners_subtitle": "Các đối tác công nghệ của SMB+",
+                "sec_clients_title": "Khách hàng",
+                "sec_clients_subtitle": "Sự tin tưởng của khách hàng là thành công của chúng tôi",
+                "sec_commitments_title": "Cam kết",
+                "sec_commitments_subtitle": "Những cam kết của chúng tôi với khách hàng",
+                "sec_warranty_title": "Quy trình bảo hành",
+                "sec_warranty_subtitle": "Hỗ trợ nhanh chóng, đúng quy trình",
+                "sec_thanks_title": "Lời cảm ơn",
+                "sec_thanks_subtitle": "",
+                "contact_address": "105 – 107 Trần Văn Dư, Phường 13, Tân Bình, Hồ Chí Minh",
+                "footer_address": "105 – 107 Trần Văn Dư <br> Phường 13, Tân Bình, Hồ Chí Minh",
+                "title": "Hội nghị<br><span>Marketing</span> thường niên",
+                "subtitle": "10-12 tháng 12, Trung tâm Hội nghị Downtown, New York",
+                "youtube_link": "https://www.youtube.com/watch?v=jDDaplaOz7Q",
+                "about_description": "Hội nghị kéo dài ba ngày, nơi các nhà lãnh đạo và chuyên gia marketing khám phá những xu hướng mới nhất về chiến lược thương hiệu, quảng cáo kỹ thuật số, content marketing và phân tích marketing thông qua các bài phát biểu chính, hội thảo thực hành và kết nối với các chuyên gia trong ngành.",
+                "about_where": "Trung tâm Hội nghị Downtown, New York",
+                "about_when": "Thứ Hai đến Thứ Tư<br>10-12 tháng 12"
+            },
+            "key_benefits": [
+                {
+                    "icon": "fa-bullseye",
+                    "title": "Cập nhật xu hướng mới nhất",
+                    "description": "Nắm bắt các xu hướng chuyển đổi số và giải pháp công nghệ mới nhất cho doanh nghiệp.",
+                    "sort_order": 1
+                },
+                {
+                    "icon": "fa-users",
+                    "title": "Kết nối chuyên gia",
+                    "description": "Gặp gỡ, trao đổi trực tiếp với các diễn giả, chuyên gia hàng đầu trong ngành.",
+                    "sort_order": 2
+                },
+                {
+                    "icon": "fa-lightbulb-o",
+                    "title": "Thực hành thực tế",
+                    "description": "Tham gia workshop thực hành để áp dụng ngay kiến thức vào doanh nghiệp của bạn.",
+                    "sort_order": 3
+                }
+            ],
+            "speakers": [
+                {
+                    "id": 1,
+                    "name": "Sarah Mitchell",
+                    "role": "CEO kkk",
+                    "company": "SMB+",
+                    "twitter": "https://kkk.com",
+                    "facebook": "https://kkk.com",
+                    "linkedin": "https://kkk.com",
+                    "description": "CMO, BrightLane",
+                    "full_description": "Sarah has led global brand and growth teams for over 15 years and now drives marketing strategy at BrightLane, a fast-growing marketing automation platform.",
+                    "photo_url": "/storage/94/Kt4BAIDCy3pKHbE9yjREQFuCWKLKI00MBNynXI5x.png",
+                    "photo_thumb": "/storage/94/conversions/Kt4BAIDCy3pKHbE9yjREQFuCWKLKI00MBNynXI5x-thumb.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "vu tran",
+                    "role": "Marketing Director",
+                    "company": "SMB+",
+                    "twitter": "#",
+                    "facebook": "#",
+                    "linkedin": "#",
+                    "description": "Growth Lead, NovaPay",
+                    "full_description": "James specialises in acquisition funnels and lifecycle marketing for fast-scaling fintech products, with a track record of doubling activation rates.",
+                    "photo_url": "/storage/2/2.jpg",
+                    "photo_thumb": "/storage/2/conversions/2-thumb.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Elena Rossi",
+                    "role": "CTO",
+                    "company": "SMB+",
+                    "twitter": "#",
+                    "facebook": "#",
+                    "linkedin": "#",
+                    "description": "Brand Director, Vantage",
+                    "full_description": "Elena has shaped award-winning brand campaigns across Europe and the US, with a focus on storytelling and creative strategy.",
+                    "photo_url": "/storage/3/3.jpg",
+                    "photo_thumb": "/storage/3/conversions/3-thumb.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Michael Chen",
+                    "role": "Data Analyst",
+                    "company": "SMB+",
+                    "twitter": "#",
+                    "facebook": "#",
+                    "linkedin": "#",
+                    "description": "Digital Strategy Consultant",
+                    "full_description": "Michael advises Fortune 500 companies on SEO, paid media and marketing measurement, turning complex data into simple growth plans.",
+                    "photo_url": "/storage/4/4.jpg",
+                    "photo_thumb": "/storage/4/conversions/4-thumb.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Amanda Foster",
+                    "role": "Product Manager",
+                    "company": "SMB+",
+                    "twitter": "#",
+                    "facebook": "#",
+                    "linkedin": "#",
+                    "description": "Head of Content, Pulse Media",
+                    "full_description": "Amanda builds content engines that turn ideas into measurable pipeline, leading editorial teams at one of the industry's top media houses.",
+                    "photo_url": "/storage/5/5.jpg",
+                    "photo_thumb": "/storage/5/conversions/5-thumb.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Daniel Brooks",
+                    "role": "Solution Architect",
+                    "company": "SMB+",
+                    "twitter": "#",
+                    "facebook": "#",
+                    "linkedin": "#",
+                    "description": "Social Media Lead, Orbit Labs",
+                    "full_description": "Daniel runs social strategy and community programs for consumer tech brands, growing engaged audiences of millions across platforms.",
+                    "photo_url": "/storage/6/6.jpg",
+                    "photo_thumb": "/storage/6/conversions/6-thumb.jpg"
+                }
+            ],
+            "schedules": [
+                {
+                    "id": 32,
+                    "title": "Đăng ký & Cà phê chào đón ăn uống",
+                    "subtitle": "Pick up your badge and network with fellow attendees before the conference begins.",
+                    "day_number": null,
+                    "start_time": "09:00:00",
+                    "desc": null,
+                    "speaker": null
+                },
+                {
+                    "id": 37,
+                    "title": "Content Marketing tạo chuyển đổi",
+                    "subtitle": "Designing editorial strategies that attract, educate and convert at every stage of the funnel.",
+                    "day_number": 2,
+                    "start_time": "09:30:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 5,
+                        "name": "Amanda Foster",
+                        "role": "Product Manager",
+                        "photo_url": "/storage/5/5.jpg",
+                        "photo_thumb": "/storage/5/conversions/5-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 41,
+                    "title": "Workshop SEO & Growth Hacking",
+                    "subtitle": "Hands-on tactics to improve search visibility and experiment your way to growth.",
+                    "day_number": 3,
+                    "start_time": "09:30:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 4,
+                        "name": "Michael Chen",
+                        "role": "Data Analyst",
+                        "photo_url": "/storage/4/4.jpg",
+                        "photo_thumb": "/storage/4/conversions/4-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 33,
+                    "title": "Bài phát biểu khai mạc: Tình hình Marketing hiện đại nha",
+                    "subtitle": "Where marketing is heading over the next decade, from data-driven strategy to creative excellence.",
+                    "day_number": 1,
+                    "start_time": "10:00:00",
+                    "desc": "kkk",
+                    "speaker": {
+                        "id": 1,
+                        "name": "Sarah Mitchell",
+                        "role": "CEO kkk",
+                        "photo_url": "/storage/94/Kt4BAIDCy3pKHbE9yjREQFuCWKLKI00MBNynXI5x.png",
+                        "photo_thumb": "/storage/94/conversions/Kt4BAIDCy3pKHbE9yjREQFuCWKLKI00MBNynXI5x-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 38,
+                    "title": "Lớp học nâng cao Email & Lifecycle Marketing",
+                    "subtitle": "Automation, segmentation and retention tactics that compound over time.",
+                    "day_number": 2,
+                    "start_time": "11:00:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 2,
+                        "name": "vu tran",
+                        "role": "Marketing Director",
+                        "photo_url": "/storage/2/2.jpg",
+                        "photo_thumb": "/storage/2/conversions/2-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 42,
+                    "title": "Trò chuyện bên lửa trại: Bài học từ CMO",
+                    "subtitle": "Honest stories of wins, failures and leadership lessons from the top of the marketing org.",
+                    "day_number": 3,
+                    "start_time": "11:00:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 1,
+                        "name": "Sarah Mitchell",
+                        "role": "CEO kkk",
+                        "photo_url": "/storage/94/Kt4BAIDCy3pKHbE9yjREQFuCWKLKI00MBNynXI5x.png",
+                        "photo_thumb": "/storage/94/conversions/Kt4BAIDCy3pKHbE9yjREQFuCWKLKI00MBNynXI5x-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 34,
+                    "title": "Xây dựng câu chuyện thương hiệu gây ấn tượng",
+                    "subtitle": "How to craft narratives that cut through the noise and connect with real customers.",
+                    "day_number": 1,
+                    "start_time": "11:30:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 3,
+                        "name": "Elena Rossi",
+                        "role": "CTO",
+                        "photo_url": "/storage/3/3.jpg",
+                        "photo_thumb": "/storage/3/conversions/3-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 35,
+                    "title": "Xu hướng quảng cáo kỹ thuật số 2026",
+                    "subtitle": "A practical look at the channels, formats and measurement methods shaping paid media this year.",
+                    "day_number": 1,
+                    "start_time": "14:00:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 5,
+                        "name": "Amanda Foster",
+                        "role": "Product Manager",
+                        "photo_url": "/storage/5/5.jpg",
+                        "photo_thumb": "/storage/5/conversions/5-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 39,
+                    "title": "Đo lường ROI Marketing",
+                    "subtitle": "Frameworks for connecting campaigns to revenue and reporting with confidence.",
+                    "day_number": 2,
+                    "start_time": "14:00:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 4,
+                        "name": "Michael Chen",
+                        "role": "Data Analyst",
+                        "photo_url": "/storage/4/4.jpg",
+                        "photo_thumb": "/storage/4/conversions/4-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 43,
+                    "title": "Bài phát biểu bế mạc: Marketing trong kỷ nguyên AI",
+                    "subtitle": "A vision for how generative AI will reshape strategy, creativity and the marketing team.",
+                    "day_number": 3,
+                    "start_time": "14:00:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 2,
+                        "name": "vu tran",
+                        "role": "Marketing Director",
+                        "photo_url": "/storage/2/2.jpg",
+                        "photo_thumb": "/storage/2/conversions/2-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 36,
+                    "title": "Sổ tay mạng xã hội cho doanh nghiệp",
+                    "subtitle": "Building engaged communities and turning social presence into pipeline.",
+                    "day_number": 1,
+                    "start_time": "16:00:00",
+                    "desc": null,
+                    "speaker": {
+                        "id": 6,
+                        "name": "Daniel Brooks",
+                        "role": "Solution Architect",
+                        "photo_url": "/storage/6/6.jpg",
+                        "photo_thumb": "/storage/6/conversions/6-thumb.jpg"
+                    }
+                },
+                {
+                    "id": 40,
+                    "title": "Tọa đàm: Tương lai của trải nghiệm khách hàng",
+                    "subtitle": "Leaders discuss personalisation, privacy and the customer journey of tomorrow.",
+                    "day_number": 2,
+                    "start_time": "16:00:00",
+                    "desc": null,
+                    "speaker": null
+                }
+            ],
+            "venues": [
+                {
+                    "id": 1,
+                    "name": "Downtown Conference Center, New York",
+                    "address": "157 William St, New York, NY 10038",
+                    "latitude": null,
+                    "longitude": null,
+                    "description": "Iste nobis eum sapiente sunt enim dolores labore accusantium autem. Cumque beatae ipsam. Est quae sit qui voluptatem corporis velit. Qui maxime accusamus possimus. Consequatur sequi et ea suscipit enim nesciunt quia velit.",
+                    "photos": [
+                        {
+                            "url": "/storage/7/1.jpg",
+                            "thumbnail": "/storage/7/conversions/1-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/8/2.jpg",
+                            "thumbnail": "/storage/8/conversions/2-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/9/3.jpg",
+                            "thumbnail": "/storage/9/conversions/3-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/10/4.jpg",
+                            "thumbnail": "/storage/10/conversions/4-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/11/5.jpg",
+                            "thumbnail": "/storage/11/conversions/5-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/12/6.jpg",
+                            "thumbnail": "/storage/12/conversions/6-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/13/7.jpg",
+                            "thumbnail": "/storage/13/conversions/7-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/14/8.jpg",
+                            "thumbnail": "/storage/14/conversions/8-thumb.jpg"
+                        }
+                    ]
+                }
+            ],
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "The Manhattan Grand",
+                    "rating": 5,
+                    "address": null,
+                    "description": "0.3 Mile from the Venue",
+                    "photo_url": "/storage/15/1.jpg",
+                    "photo_thumb": "/storage/15/conversions/1-thumb.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Broadway Boutique Hotel",
+                    "rating": 4,
+                    "address": null,
+                    "description": "0.5 Mile from the Venue",
+                    "photo_url": "/storage/16/2.jpg",
+                    "photo_thumb": "/storage/16/conversions/2-thumb.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Financial District Suites",
+                    "rating": 3,
+                    "address": null,
+                    "description": "0.7 Miles from the Venue",
+                    "photo_url": "/storage/17/3.jpg",
+                    "photo_thumb": "/storage/17/conversions/3-thumb.jpg"
+                }
+            ],
+            "galleries": [
+                {
+                    "id": 1,
+                    "name": "Hội nghị Marketing thường niên",
+                    "photos": [
+                        {
+                            "url": "/storage/18/1.jpg",
+                            "thumbnail": "/storage/18/conversions/1-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/19/2.jpg",
+                            "thumbnail": "/storage/19/conversions/2-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/20/3.jpg",
+                            "thumbnail": "/storage/20/conversions/3-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/21/4.jpg",
+                            "thumbnail": "/storage/21/conversions/4-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/22/5.jpg",
+                            "thumbnail": "/storage/22/conversions/5-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/23/6.jpg",
+                            "thumbnail": "/storage/23/conversions/6-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/24/7.jpg",
+                            "thumbnail": "/storage/24/conversions/7-thumb.jpg"
+                        },
+                        {
+                            "url": "/storage/25/8.jpg",
+                            "thumbnail": "/storage/25/conversions/8-thumb.jpg"
+                        }
+                    ]
+                }
+            ],
+            "sponsors": [
+                {
+                    "id": 1,
+                    "name": "HubSpot",
+                    "link": "#",
+                    "logo_url": "/storage/26/1.png",
+                    "logo_thumb": "/storage/26/conversions/1-thumb.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Mailchimp",
+                    "link": "#",
+                    "logo_url": "/storage/27/2.png",
+                    "logo_thumb": "/storage/27/conversions/2-thumb.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "SEMrush",
+                    "link": "#",
+                    "logo_url": "/storage/28/3.png",
+                    "logo_thumb": "/storage/28/conversions/3-thumb.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Canva",
+                    "link": "#",
+                    "logo_url": "/storage/29/4.png",
+                    "logo_thumb": "/storage/29/conversions/4-thumb.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Sprout Social",
+                    "link": "#",
+                    "logo_url": "/storage/30/5.png",
+                    "logo_thumb": "/storage/30/conversions/5-thumb.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Hootsuite",
+                    "link": "#",
+                    "logo_url": "/storage/31/6.png",
+                    "logo_thumb": "/storage/31/conversions/6-thumb.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Salesforce",
+                    "link": "#",
+                    "logo_url": "/storage/32/7.png",
+                    "logo_thumb": "/storage/32/conversions/7-thumb.jpg"
+                },
+                {
+                    "id": 8,
+                    "name": "AdRoll",
+                    "link": "#",
+                    "logo_url": "/storage/33/8.png",
+                    "logo_thumb": "/storage/33/conversions/8-thumb.jpg"
+                }
+            ],
+            "faqs": [
+                {
+                    "id": 13,
+                    "question": "Hội nghị sẽ đề cập đến những chủ đề nào?",
+                    "answer": "Lịch trình bao gồm chiến lược thương hiệu, quảng cáo kỹ thuật số, content marketing, mạng xã hội và phân tích marketing trong ba ngày."
+                },
+                {
+                    "id": 14,
+                    "question": "Sự kiện này có phù hợp với chủ doanh nghiệp nhỏ không?",
+                    "answer": "Có. Các phiên được thiết kế cho chuyên gia marketing ở mọi quy mô công ty, với những kiến thức thực tế có thể áp dụng ngay."
+                },
+                {
+                    "id": 15,
+                    "question": "Có cơ hội kết nối không?",
+                    "answer": "Có. Chúng tôi tổ chức tiệc chào đón, các giờ kết nối riêng và khu triển lãm nơi bạn có thể gặp gỡ diễn giả, nhà tài trợ và những người tham dự khác."
+                },
+                {
+                    "id": 16,
+                    "question": "Giá vé đã bao gồm bữa ăn chưa?",
+                    "answer": "Nghỉ giải lao với cà phê được bao gồm cho mọi loại vé. Bữa trưa bao gồm trong gói VIP và Executive."
+                },
+                {
+                    "id": 17,
+                    "question": "Tôi có thể hoàn tiền nếu không tham dự được không?",
+                    "answer": "Hoàn tiền đầy đủ có hiệu lực tới 30 ngày trước sự kiện. Trong vòng 30 ngày, vé có thể được chuyển nhượng cho người tham dự khác."
+                },
+                {
+                    "id": 18,
+                    "question": "Có giảm giá cho nhóm không?",
+                    "answer": "Nhóm từ 5 người trở lên được giảm 15% cho gói General và VIP. Liên hệ với đội ngũ của chúng tôi để có báo giá riêng."
+                }
+            ],
+            "amenities": [
+                {
+                    "id": 1,
+                    "name": "Vé vào cửa chung"
+                },
+                {
+                    "id": 2,
+                    "name": "Túi hội nghị"
+                },
+                {
+                    "id": 3,
+                    "name": "Truy cập khu triển lãm"
+                },
+                {
+                    "id": 4,
+                    "name": "Bữa trưa kết nối"
+                },
+                {
+                    "id": 5,
+                    "name": "Truy cập phòng VIP"
+                },
+                {
+                    "id": 6,
+                    "name": "Vé workshop"
+                }
+            ],
+            "prices": [
+                {
+                    "id": 1,
+                    "name": "Gói General",
+                    "price": "149.00",
+                    "amenity_ids": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Gói VIP",
+                    "price": "249.00",
+                    "amenity_ids": [
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Gói Executive",
+                    "price": "349.00",
+                    "amenity_ids": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                }
+            ]
+        }
+    ]
+}
